@@ -1,0 +1,94 @@
+body {
+  background: rgb(122, 112, 159);
+}
+p {
+  color: white;
+  font-size: 15px;
+}
+h1 {
+  font-weight: bold;
+  align-content: center;
+  color: aliceblue
+  
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+h2 {color: aliceblue;
+font-style: italic}
+
+h3{color: aliceblue;
+font-family: monospace}
+
+ul{color: aliceblue;
+font-family: cursive}
+
+h4{color:aliceblue;
+font-family: sans-serif}
+
+#solo {height: 300px;
+width: 200px;
+  float: center
+  
+}
+
+#Jinwoo {height: 300px;
+width: 200px;
+  float: right}
+
+#chae {height: 300px;
+  width: 350px;
+    border: dotted;
+}
+#go {height: 300px;
+  width: 200px;
+float: left}
+
+.hae{font-family: fantasy;
+color: #fafafa}
+
+.hee{font-family: monospace;
+  color:rgba(221, 178, 0, 0.98)}
+
+
+.main{font-family: serif;
+color: azure}
+
+
+#solo2 {width:250px;
+height:250px;
+border: double;}
+
+#chae_{width:300px;
+height:300px}
+#Sung{width:300px;
+height: 300px}
+
+.woo{font-family: sans-serif;
+color: rgba(255, 255, 255, 0.94)}
+
+.low{border: dashed;
+border-color: #0e2424;
+border-radius: 40px;}
+
+.ing {font-style: italic;}
+
+/*Flexbox*/
+.first{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+}
+/*Flexbox*/
+#gogo{display: flex;
+justify-content: flex-end;
+  flex-direction: column;
+  border: solid;
+  margin: 40px;
+}
+/*Flexbox*/
+.haein {align-items: baseline;
+align-content; font-stretch: semi-expanded}
+
